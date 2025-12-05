@@ -29,9 +29,21 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1764902920759",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764902712/wallpaper/violet.jpg"
+		},
+		{
+			"id": "url-1764902931959",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764902712/wallpaper/maiam.jpg"
+		},
+		{
+			"id": "url-1764902958030",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764902721/wallpaper/wang.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "url-1764902920759",
 	"backgroundImages": [
 		{
 			"id": "",

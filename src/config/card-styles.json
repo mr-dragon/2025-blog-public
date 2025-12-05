@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -507,
+		"offsetY": 84,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -53,8 +53,8 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": 206,
-		"offsetY": 116,
+		"offsetX": 207,
+		"offsetY": 122,
 		"enabled": true
 	},
 	"articleCard": {
@@ -69,8 +69,8 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 209,
-		"offsetY": -370,
+		"offsetX": 204,
+		"offsetY": -378,
 		"enabled": true
 	},
 	"navCard": {
@@ -85,8 +85,8 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 435,
+		"offsetY": 235,
 		"enabled": true
 	}
 }
