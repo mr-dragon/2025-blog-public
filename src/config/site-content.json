@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "凌霄的小天地",
+		"title": "凌霄Blog",
 		"description": "凌霄 的个人博客：记录NAS、 观影、前后端开发、探索笔记。"
 	},
 	"theme": {
@@ -41,15 +41,35 @@
 		{
 			"id": "url-1764902958030",
 			"url": "https://res.cloudinary.com/devos/image/upload/v1764902721/wallpaper/wang.jpg"
+		},
+		{
+			"id": "url-1764903201212",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764903058/wallpaper/anastasia.jpg"
 		}
 	],
-	"currentArtImageId": "url-1764902920759",
+	"currentArtImageId": "url-1764903201212",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1764903166824",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764902712/wallpaper/maiam.jpg"
+		},
+		{
+			"id": "url-1764903178221",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764902721/wallpaper/wang.jpg"
+		},
+		{
+			"id": "url-1764903187442",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764903030/wallpaper/robot2.jpg"
+		},
+		{
+			"id": "url-1764903196922",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764903058/wallpaper/anastasia.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1764903196922",
 	"socialButtons": []
 }
