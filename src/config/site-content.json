@@ -43,11 +43,11 @@
 			"url": "https://res.cloudinary.com/devos/image/upload/v1764902721/wallpaper/wang.jpg"
 		},
 		{
-			"id": "url-1764903201212",
-			"url": "https://res.cloudinary.com/devos/image/upload/v1764903058/wallpaper/anastasia.jpg"
+			"id": "url-1764903761430",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764903729/wallpaper/anastasia.jpg"
 		}
 	],
-	"currentArtImageId": "url-1764903201212",
+	"currentArtImageId": "url-1764903761430",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -66,10 +66,10 @@
 			"url": "https://res.cloudinary.com/devos/image/upload/v1764903030/wallpaper/robot2.jpg"
 		},
 		{
-			"id": "url-1764903196922",
-			"url": "https://res.cloudinary.com/devos/image/upload/v1764903058/wallpaper/anastasia.jpg"
+			"id": "url-1764903767183",
+			"url": "https://res.cloudinary.com/devos/image/upload/v1764903729/wallpaper/anastasia.jpg"
 		}
 	],
-	"currentBackgroundImageId": "url-1764903196922",
+	"currentBackgroundImageId": "url-1764903767183",
 	"socialButtons": []
 }
